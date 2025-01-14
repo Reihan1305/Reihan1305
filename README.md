@@ -1,6 +1,7 @@
 # 👋 Hi, Welcome everyone
 
-[typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&color=00BFFF&lines=Welcome+to+my+GitHub+Profile!;I+love+coding!;Let's+build+something+amazing!;Enjoy+exploring+my+projects!](https://readme-typing-svg.herokuapp.com/demo/?font=envy+code&weight=800&size=35&color=FFFCFC&lines=Welcome+To+My+Github;Lets+Build+Something+Together;Enjoy+Exploring+My+Project)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=envy+code&pause=1000&color=FFFFFF&width=435&lines=Welcome+To+My+Github;Lets+Build+Something+Together;Enjoy+Exploring+My+Project)](https://git.io/typing-svg)
+---
 
 ![Profile GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXR3bWYzcWN0aXhsZ3F4eGZoNHZzMXN5eHloZzUyb3hvZmpmOTc2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWu82QD3pj4wvEQ/giphy.gif)
 
@@ -8,9 +9,10 @@
 
 ## 🌟 My Skills
 - **Programming Languages:** JavaScript, TypeScript, Python, Rust
-- **Frontend:** React.js, Tailwind
+- **Frontend:** React.js, Tailwind CSS
 - **Backend:** Node.js, Express.js, FastAPI, Spring Boot, ActixWeb
 - **Databases:** PostgreSQL, Redis
+
 ---
 
 ## 📊 GitHub Stats
