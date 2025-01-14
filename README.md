@@ -1,8 +1,4 @@
 # 👋 Hi, Welcome everyone
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=envy+code&pause=1000&color=FFFFFF&width=435&lines=Welcome+To+My+Github+Profile;Lets+Build+Something+Together;Enjoy+Exploring+My+Project)](https://git.io/typing-svg)
----
-
 ![Profile GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXR3bWYzcWN0aXhsZ3F4eGZoNHZzMXN5eHloZzUyb3hvZmpmOTc2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWu82QD3pj4wvEQ/giphy.gif)
 
 ---
